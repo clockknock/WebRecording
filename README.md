@@ -1,17 +1,15 @@
-[TOC]
-
-
-
 ## Android
 
 ### Kotlin
 
 #### View相关
 
-View阴影--https://github.com/loopeer/shadow
+##### shadow
+
+https://github.com/loopeer/shadow
 
 
-|                    H                     |                    H                     |                    H                     |
+|                                          |                                          |                                          |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |              Change Radius               |            Change foreground             |              Change Corners              |
 | ![](https://github.com/loopeer/shadow/raw/master/screenshot/shadow_radius.gif) | ![](https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif) | ![](https://github.com/loopeer/shadow/raw/master/screenshot/shadow_corners.gif) |
@@ -24,5 +22,36 @@ View阴影--https://github.com/loopeer/shadow
 
 #### 框架
 
-Anko--https://github.com/Kotlin/anko
+##### Anko
 
+https://github.com/Kotlin/anko
+
+
+
+### JAVA
+
+#### View相关
+
+##### ScalingView
+
+https://github.com/iammert/ScalingLayout
+
+| Demo                                     | Fab Demo                                 | Spotify Search Demo                      |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| ![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_behavior.gif) | ![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_fab.gif) | ![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_searchbar.gif) |
+
+
+
+#### 框架
+
+
+
+## JAVAEE
+
+### Java
+
+
+
+
+
+### Kotlin
